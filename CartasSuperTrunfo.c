@@ -1,4 +1,3 @@
-#include <stdatomic.h>
 #include <stdio.h>
 
 // Desafio Super Trunfo - Países
